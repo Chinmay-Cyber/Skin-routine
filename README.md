@@ -1,1 +1,3 @@
 # Skin-routine
+This website offers a personalized approach to skincare. Users create an account and identify their specific skin type through a selection process. The system then leverages this information to generate a customized skincare routine tailored to their individual needs.
+To optimize user experience, the website provides additional functionalities. It includes a to-do list that breaks down the recommended skincare routine into daily steps, ensuring users follow the regimen consistently. Additionally, a stopwatch function allows users to monitor the optimal application time for each step, fostering a more effective skincare practice.
